@@ -1,0 +1,8 @@
+beautifulsoup4
+pyirt
+numpy
+transformers
+scikit-learn
+tensorflow
+pandas
+transformers
